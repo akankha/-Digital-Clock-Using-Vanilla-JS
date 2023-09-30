@@ -2,7 +2,7 @@
 
 A simple digital clock web application created using HTML, CSS, and Vanilla JavaScript.
 
-![Digital Clock Demo]([link_to_demo_gif_or_screenshot_here](https://img001.prntscr.com/file/img001/NGE4nzTpRiSgMYIKpSIhwA.png))
+![Digital Clock Demo](https://img001.prntscr.com/file/img001/NGE4nzTpRiSgMYIKpSIhwA.png)
 
 ## Table of Contents
 
