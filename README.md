@@ -11,7 +11,6 @@ A simple digital clock web application created using HTML, CSS, and Vanilla Java
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 
 ## Demo
 
