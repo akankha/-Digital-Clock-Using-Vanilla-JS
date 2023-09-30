@@ -17,8 +17,6 @@ A simple digital clock web application created using HTML, CSS, and Vanilla Java
 
 You can view the live demo of the Digital Clock [here](https://akankha.github.io/-Digital-Clock-Using-Vanilla-JS/).
 
-![Digital Clock Demo](https://img001.prntscr.com/file/img001/NGE4nzTpRiSgMYIKpSIhwA.png)
-
 ## Description
 
 This is a straightforward digital clock application built as a web page using HTML, CSS, and Vanilla JavaScript. It displays the current time and updates in real-time. It serves as a great example of a simple project to learn and practice front-end web development with JavaScript.
